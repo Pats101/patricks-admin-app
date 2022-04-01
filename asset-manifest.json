@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/patricks-admin-app/static/js/main.f5e71296.js",
+    "index.html": "/patricks-admin-app/index.html",
+    "main.f5e71296.js.map": "/patricks-admin-app/static/js/main.f5e71296.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f5e71296.js"
+  ]
+}
