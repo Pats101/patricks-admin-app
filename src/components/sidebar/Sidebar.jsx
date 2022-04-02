@@ -1,9 +1,16 @@
-import { Assessment, EmailOutlined, FeedbackOutlined, LineStyle, Message, PersonOutlined, Storefront, Timeline, TrendingUp, WorkOutlined } from "@material-ui/icons";
-import Dashboard from "./dashboard/Dashboard";
-import NotificationsMenu from "./notifications-menu/NotificationsMenu";
-import SidebarMenu from "./quick-menu/SidebarMenu";
+import { 
+  Assessment, 
+  EmailOutlined, 
+  FeedbackOutlined, 
+  LineStyle, 
+  Message, 
+  PersonOutlined, 
+  Storefront, 
+  Timeline, 
+  TrendingUp, 
+  WorkOutlined 
+} from "@material-ui/icons";
 import "./Sidebar.css";
-import StaffMenu from "./staff-menu/StaffMenu";
 
 export default function Sidebar() {
   return (
