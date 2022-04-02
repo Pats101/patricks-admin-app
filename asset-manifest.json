@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/patricks-admin-app/static/css/main.45e300c4.css",
-    "main.js": "/patricks-admin-app/static/js/main.96a6b949.js",
+    "main.css": "/patricks-admin-app/static/css/main.62f53134.css",
+    "main.js": "/patricks-admin-app/static/js/main.4cd84c95.js",
     "index.html": "/patricks-admin-app/index.html",
-    "main.45e300c4.css.map": "/patricks-admin-app/static/css/main.45e300c4.css.map",
-    "main.96a6b949.js.map": "/patricks-admin-app/static/js/main.96a6b949.js.map"
+    "main.62f53134.css.map": "/patricks-admin-app/static/css/main.62f53134.css.map",
+    "main.4cd84c95.js.map": "/patricks-admin-app/static/js/main.4cd84c95.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e300c4.css",
-    "static/js/main.96a6b949.js"
+    "static/css/main.62f53134.css",
+    "static/js/main.4cd84c95.js"
   ]
 }
