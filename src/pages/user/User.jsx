@@ -1,4 +1,14 @@
-import { CalendarToday, LocationSearching, MailOutline, PermIdentity, PhoneAndroid, Publish, WorkOutline, HomeWorkOutlined } from "@material-ui/icons";
+import { 
+    CalendarToday, 
+    LocationSearching, 
+    MailOutline, 
+    PermIdentity, 
+    PhoneAndroid, 
+    Publish, 
+    WorkOutline, 
+    HomeWorkOutlined,
+    Link
+} from "@material-ui/icons";
 import "./User.css";
 
 export default function User() {
@@ -6,7 +16,9 @@ export default function User() {
     <div className="user">
         <div className="userTitleContainer">
             <h1 className="userTitle">Edit User</h1>
-            <button className="userAddButton">Create</button>
+            <Link to="/patricks-admin-app/newUser">
+                <button className="userAddButton">Create</button>
+            </Link>
         </div>
         <div className="userContainer">
             <div className="userShow">
