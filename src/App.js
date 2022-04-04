@@ -8,6 +8,7 @@ import User from "./pages/user/User";
 import NewUser from "./pages/new-user/NewUser";
 import ProductList from "./pages/product-list/ProductList";
 import Product from "./pages/product/Product";
+import NewProduct from "./pages/new-product/NewProduct";
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
           <Route path="/patricks-admin-app/newUser" element={<NewUser />} />
           <Route path="/patricks-admin-app/products" element={<ProductList />} />
           <Route path="/patricks-admin-app/product/:productId" element={<Product />} />
-          <Route path="/patricks-admin-app/newProduct" element={<NewUser />} />
+          <Route path="/patricks-admin-app/newProduct" element={<NewProduct />} />
         </Routes>
       </div>
     </BrowserRouter>
