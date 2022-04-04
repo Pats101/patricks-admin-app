@@ -6,9 +6,9 @@ import {
     PhoneAndroid, 
     Publish, 
     WorkOutline, 
-    HomeWorkOutlined,
-    Link
+    HomeWorkOutlined
 } from "@material-ui/icons";
+import { Link } from "react-router-dom";
 import "./User.css";
 
 export default function User() {
